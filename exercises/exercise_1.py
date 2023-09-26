@@ -1,6 +1,9 @@
 def print_numbers():
     # Your task is to use a for loop to print numbers from 1 to 10.
-    pass
+for i to range(1,11):
+    print(i)
+    i+1
+pass
 
 def main():
     print_numbers()
@@ -19,3 +22,4 @@ def test_print_numbers():
 if __name__ == '__main__':
     main()
     test_print_numbers()
+
