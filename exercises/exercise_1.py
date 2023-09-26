@@ -3,6 +3,7 @@ def print_numbers():
 for i to range(1,11):
     print(i)
     i+1
+    
 pass
 
 def main():
