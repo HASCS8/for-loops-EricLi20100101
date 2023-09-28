@@ -4,7 +4,14 @@ def print_rectangle():
     # ***
     # ***
     # ***
-    pass
+    row = 3
+    col = 3
+    
+    for i in range(row):
+        for j in range(col):
+            pinrt('*', end='')
+        print()
+    
 
 def main():
     print_rectangle()
