@@ -3,7 +3,7 @@ def print_fruits():
     fruits_list = ['Apple', 'Banana', 'Cherry', 'Date', 'Elderberry']
     for x in fruits_list:
         print(x)
-        
+       
 
 def main():
     print_fruits()
