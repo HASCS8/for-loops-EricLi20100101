@@ -8,7 +8,7 @@ def print_rectangle():
     col = 3
     
     i=1
-        for i in range(1,4)
+    for i in range(1,4)
         print('***')
 
 def main():
