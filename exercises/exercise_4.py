@@ -8,7 +8,7 @@ def print_rectangle():
     col = 3
     
     for i in range(row):
-        for j in range(col):
+        for o in range(col):
             pinrt('*', end='')
         print()
     
