@@ -5,7 +5,7 @@ def print_rectangle():
     # ***
     # ***
     i=1
-    for i in range(1,4)
+    for i in range(1,4):
         print('***')
 
 def main():
