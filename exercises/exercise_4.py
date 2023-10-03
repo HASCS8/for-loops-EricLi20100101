@@ -4,9 +4,6 @@ def print_rectangle():
     # ***
     # ***
     # ***
-    row = 3
-    col = 3
-    
     i=1
     for i in range(1,4)
         print('***')
